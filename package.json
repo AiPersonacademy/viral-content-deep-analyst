@@ -1,0 +1,34 @@
+{
+  "name": "viral-content-deep-analyst",
+  "version": "1.0.0",
+  "description": "Master multimodal analysis and direct-response reverse engineering skill for viral short-form video (Whitman LF8, Sugarman Slippery Slide, Cialdini Influence & Pre-Suasion, 5-Field Behavioral Personas, Forensic Sensory Labs).",
+  "main": "SKILL.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AiPersonacademy/viral-content-deep-analyst.git"
+  },
+  "keywords": [
+    "ai-agent",
+    "agent-skills",
+    "skills",
+    "antigravity",
+    "claude-code",
+    "cursor",
+    "direct-response",
+    "copywriting",
+    "persuasion",
+    "viral-reels",
+    "cashvertising",
+    "sugarman",
+    "cialdini"
+  ],
+  "author": "AIPersona Academy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AiPersonacademy/viral-content-deep-analyst/issues"
+  },
+  "homepage": "https://github.com/AiPersonacademy/viral-content-deep-analyst#readme"
+}
